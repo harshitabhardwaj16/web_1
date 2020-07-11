@@ -5,7 +5,8 @@ h2{
     text-align: center;
 }
 p{
-    align-content:center;
+    text-align:center;
+    font-size: medium;
 }
 body{
     background-color: bisque;
